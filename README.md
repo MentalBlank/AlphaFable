@@ -69,14 +69,18 @@ Flash-based browser games, including AlphaFable, are still playable in 2024 afte
 (These items may exist still in some form in a backup, please create a pull request if you believe you have missing code).
 
 ### Forks
+
 <details>
+ 
 <summary>Links to forked projects.</summary>
+
 There are various forks of this project, some of which may not include the latest code or might contain code that is no longer available even to the original developers. One of the more recent forks is maintained by Draconiandeveloper and can be accessed at [Draconiandeveloper's AlphaFable Repo](https://github.com/draconiandeveloper/AlphaFable). This fork provides a modern update with quality-of-life improvements and bug fixes for an older codebase and incorporates Docker container deployment. Draconiandeveloper's rationale for their fork, which parallels my own childhood experiences and the motivation behind the original AlphaFable, can be reviewed here: [Draconiandeveloper's Rationale](https://github.com/draconiandeveloper/AlphaFable/blob/main/RATIONALE.md).
 
 Personal note: The fleeting nature of memories is a poignant reminder of our vulnerabilities and the impermanence of life. Navigating phases that feel akin to limbo can be disorienting and it is completely understandable to feel a sense of detachment from your lived experiences, especially when they are viewed through a haze of nostalgia. I strongly believe that there is value for all individuals to preserve and share their stories. The desire to contribute to something that might otherwise fade into obscurity is commendable and serves as a meaningful way to connect with both the past and the future. To preserve and reflect on cherished and influential moments is a reminder of the importance of keeping our stories alive and adds to the rich tapestry of the shared experiences of each person and those they interact with. The stories we tell, the memories we cherish, and the lessons we impart. These are indeed what gives substance and significance to our existence.
+
 </details>
 
-### Old Server Setup Guide
+## Old Server Setup Guide
 
 <details>
 
@@ -173,7 +177,7 @@ Personal note: The fleeting nature of memories is a poignant reminder of our vul
 
 </details>
 
-### Changelog
+## Changelog
 
 <details>
 

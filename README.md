@@ -41,6 +41,8 @@ This project would not have been possible without the invaluable support of the 
 
 **These files are severely outdated (over 13 years old as of upload) and may require significant modifications to function correctly.**
 
+Flash-based browser games, including AlphaFable, are still playable in 2024 after installing the Ruffle Flash-Emulator plugin for your browser.
+
 **Most changelogs post May 4, 2011, have been lost due to various reasons. However, here is a summary of the changes:**
 - Majority of the code rewritten, optimized, and updated
 - Character transfer tool added for copying character and item information between the original game and the private server
@@ -51,20 +53,34 @@ This project would not have been possible without the invaluable support of the 
 - Modifications to items
 - Adjustments to locations
 - Removal of unused code
-- Core game updated to version 14.0.36
+- Core game updated to version 14.0.36 in database
+- Available official game data was re-scraped and added to the database.
+- Game Version 9.8.0 was restored.
+- test14_0_36.swf renamed to game14_0_36.swf.
+- An updated game Version 15.8.05 was added. (Source unknown, v14.0.36 remains the default).
+- Removal of some original gamefiles.
 
-**Post May 4, 2011, some code has been lost, including:**
-- Account Management
-- CMS system & Character Pages etc.
-- Various configuration changes
-- Some modified game files
+**Some code has been lost, including:**
+- Account Management.
+- CMS system and general website UI etc.
+- Character Page updates etc.
+- Various configuration changes.
+- Some modified game files.
+(These items may exist still in some form in a backup, please create a pull request if you believe you have missing code).
 
 ### Forks
+<details>
+<summary>Links to forked projects.</summary>
 There are various forks of this project, some of which may not include the latest code or might contain code that is no longer available even to the original developers. One of the more recent forks is maintained by Draconiandeveloper and can be accessed at [Draconiandeveloper's AlphaFable Repo](https://github.com/draconiandeveloper/AlphaFable). This fork provides a modern update with quality-of-life improvements and bug fixes for an older codebase and incorporates Docker container deployment. Draconiandeveloper's rationale for their fork, which parallels my own childhood experiences and the motivation behind the original AlphaFable, can be reviewed here: [Draconiandeveloper's Rationale](https://github.com/draconiandeveloper/AlphaFable/blob/main/RATIONALE.md).
 
 Personal note: The fleeting nature of memories is a poignant reminder of our vulnerabilities and the impermanence of life. Navigating phases that feel akin to limbo can be disorienting and it is completely understandable to feel a sense of detachment from your lived experiences, especially when they are viewed through a haze of nostalgia. I strongly believe that there is value for all individuals to preserve and share their stories. The desire to contribute to something that might otherwise fade into obscurity is commendable and serves as a meaningful way to connect with both the past and the future. To preserve and reflect on cherished and influential moments is a reminder of the importance of keeping our stories alive and adds to the rich tapestry of the shared experiences of each person and those they interact with. The stories we tell, the memories we cherish, and the lessons we impart. These are indeed what gives substance and significance to our existence.
+<details>
 
 ### Old Server Setup Guide
+
+<details>
+
+<summary>Outdated server setup walkthrough. Updated for conciseness and QOL</summary>
 
 ### Notes
 - **Compatibility:** Using the latest version of XAMPP may present additional challenges; UwAmp is recommended for optimal compatibility.
@@ -155,7 +171,48 @@ Personal note: The fleeting nature of memories is a poignant reminder of our vul
 
 - Verify that all SWF files have finished downloading. Once confirmed, your server setup is complete, and you are ready to begin using your private server.
 
+</details>
+
+##Changelog
+
+<details>
+
+<summary>New Changelogs after May 2011</summary>
+
+### Post May 4, 2011
+
+**Most changelogs post May 4, 2011, have been lost due to various reasons. However, here is a summary of the changes:**
+- Majority of the code rewritten, optimized, and updated
+- Character transfer tool added for copying character and item information between the original game and the private server
+- Updates to website and page templates, including fixes
+- Various bug fixes in game files
+- Implementation of account activation
+- Changes to PVP mechanics
+- Modifications to items
+- Adjustments to locations
+- Removal of unused code
+- Core game updated to version 14.0.36 in database
+- Available official game data was re-scraped and added to the database.
+- Game Version 9.8.0 was restored.
+- test14_0_36.swf renamed to game14_0_36.swf.
+- An updated game Version 15.8.05 was added. (Source unknown, v14.0.36 remains the default).
+- Removal of some original gamefiles.
+
+**Some code has been lost, including:**
+- Account Management.
+- CMS system and general website UI etc.
+- Character Page updates etc.
+- Various configuration changes.
+- Some modified game files.
+(These items may exist still in some form in a backup, please create a pull request if you believe you have missing code).
+
+</details>
+
 ## Old Changelog
+
+<details>
+
+<summary>Old Changelogs before May 2011</summary>
 
 ### October 25, 2010
 
@@ -534,30 +591,5 @@ Personal note: The fleeting nature of memories is a poignant reminder of our vul
   - Fixed errors encountered when exiting Barber, Bank, Town Hall, etc.
   - Corrected bank-related errors, including cases where the bank is empty.
   - Fixed `cf-statsuntrain.php`.
- 
-### Post May 4, 2011
 
-**Most changelogs post May 4, 2011, have been lost due to various reasons. However, here is a summary of the changes:**
-- Majority of the code rewritten, optimized, and updated
-- Character transfer tool added for copying character and item information between the original game and the private server
-- Updates to website and page templates, including fixes
-- Various bug fixes in game files
-- Implementation of account activation
-- Changes to PVP mechanics
-- Modifications to items
-- Adjustments to locations
-- Removal of unused code
-- Core game updated to version 14.0.36 in database
-- Available official game data was re-scraped and added to the database.
-- Game Version 9.8.0 was restored.
-- test14_0_36.swf renamed to game14_0_36.swf.
-- An updated game Version 15.8.05 was added. (Source unknown, v14.0.36 remains the default).
-- Removal of some original gamefiles.
-
-**Some code has been lost, including:**
-- Account Management.
-- CMS system and general website UI etc.
-- Character Page updates etc.
-- Various configuration changes.
-- Some modified game files.
-(These items may exist still in some form in a backup, please create a pull request if you believe you have missing code).
+</details>

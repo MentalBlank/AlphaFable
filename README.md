@@ -166,6 +166,25 @@ There are various forks of or new developments created as a result of this proje
 
 <summary>Old Changelogs before May 2011</summary>
 
+### pre-October 25, 2010 and Notes
+
+**Most changelogs pre-October 25, 2010, have been lost due to various reasons.**
+
+**Notes:**
+- The project began without an official name, initially referred to as "Dragon Fable Private Server Files."
+- It was later renamed **EternalFable**.
+- For a brief period, there was a focus on creating a separate, unmodified codebase under the name **VanillaDF** focusing on a "pure" in-game and website experience.
+- **VanillaDF** was eventually merged with the **EternalFable** codebase, incorporating several quality-of-life (QOL) tweaks.
+- Shortly after the merge, the developers decided to temporarily shut down **EternalFable**.
+- The team opted not to maintain a CMS replicating the DragonFable website, as their primary focus was on enhancing the in-game experience.
+- A few months later, the project was revived and rebranded as **AlphaFable**, with an emphasis on delivering a pure in-game experience accompanied by a basic custom website.
+- During this period, the project team underwent several username changes.
+- The project was hosted on multiple platforms, including **GitHub** and **Google Code**.
+- Updates and changes were communicated through various online forum communities, all of which have since been closed down.
+- A **MechQuest** private server, **VanillaMQ**, was also in development, as MQ leveraged DF's original code. However, the primary focus remained on the DF files.
+- Code added to **VanillaDF** and **AlphaFable** was ported to **VanillaMQ** with compatibility adjustments.
+- The **VanillaMQ** project was quickly abandoned.
+
 ### October 25, 2010
 
 - **Client Update:**

@@ -43,23 +43,6 @@ This project would not have been possible without the invaluable support of the 
 
 Flash-based browser games, including AlphaFable, are still playable in 2024 after installing the Ruffle Flash-Emulator plugin for your browser.
 
-**Most changelogs post May 4, 2011, have been lost due to various reasons. However, here is a summary of the changes:**
-- Majority of the code rewritten, optimized, and updated
-- Character transfer tool added for copying character and item information between the original game and the private server
-- Updates to website and page templates, including fixes
-- Various bug fixes in game files
-- Implementation of account activation
-- Changes to PVP mechanics
-- Modifications to items
-- Adjustments to locations
-- Removal of unused code
-- Core game updated to version 14.0.36 in database
-- Available official game data was re-scraped and added to the database.
-- Game Version 9.8.0 was restored.
-- test14_0_36.swf renamed to game14_0_36.swf.
-- An updated game Version 15.8.05 was added. (Source unknown, v14.0.36 remains the default).
-- Removal of some original gamefiles.
-
 **Some code has been lost, including:**
 - Account Management.
 - CMS system and general website UI etc.
@@ -68,13 +51,13 @@ Flash-based browser games, including AlphaFable, are still playable in 2024 afte
 - Some modified game files.
 (These items may exist still in some form in a backup, please create a pull request if you believe you have missing code).
 
-### Forks
+### Forks & Related Projects 
 
 <details>
  
-<summary>Links to forked projects.</summary>
+<summary>Links to forked & related projects.</summary>
 
-There are various forks of or new developments created as a result this project, some of which may not include the latest code or might contain code that is no longer available even to the original developers.
+There are various forks of or new developments created as a result of this project, some of which may not include the latest code or might contain code that is no longer available even to the original developers.
 [Draconiandeveloper's AlphaFable Repo](https://github.com/draconiandeveloper/AlphaFable).
 [Hiperesp's DragonFable Private Server Repo](https://github.com/hiperesp/DragonFable-Private-Server).
 
@@ -174,41 +157,6 @@ There are various forks of or new developments created as a result this project,
 #### Step 16: Final Checks
 
 - Verify that all SWF files have finished downloading. Once confirmed, your server setup is complete, and you are ready to begin using your private server.
-
-</details>
-
-## Changelog
-
-<details>
-
-<summary>New Changelogs after May 2011</summary>
-
-### Post May 4, 2011
-
-**Most changelogs post May 4, 2011, have been lost due to various reasons. However, here is a summary of the changes:**
-- Majority of the code rewritten, optimized, and updated
-- Character transfer tool added for copying character and item information between the original game and the private server
-- Updates to website and page templates, including fixes
-- Various bug fixes in game files
-- Implementation of account activation
-- Changes to PVP mechanics
-- Modifications to items
-- Adjustments to locations
-- Removal of unused code
-- Core game updated to version 14.0.36 in database
-- Available official game data was re-scraped and added to the database.
-- Game Version 9.8.0 was restored.
-- test14_0_36.swf renamed to game14_0_36.swf.
-- An updated game Version 15.8.05 was added. (Source unknown, v14.0.36 remains the default).
-- Removal of some original gamefiles.
-
-**Some code has been lost, including:**
-- Account Management.
-- CMS system and general website UI etc.
-- Character Page updates etc.
-- Various configuration changes.
-- Some modified game files.
-(These items may exist still in some form in a backup, please create a pull request if you believe you have missing code).
 
 </details>
 
@@ -595,5 +543,32 @@ There are various forks of or new developments created as a result this project,
   - Fixed errors encountered when exiting Barber, Bank, Town Hall, etc.
   - Corrected bank-related errors, including cases where the bank is empty.
   - Fixed `cf-statsuntrain.php`.
+
+### Post May 4, 2011
+
+**Most changelogs post-May 4, 2011, have been lost due to various reasons. However, here is a summary of the changes:**
+- Majority of the code rewritten, optimized and updated
+- Character transfer tool added for copying character and item information between the original game and the private server
+- Updates to website and page templates, including fixes
+- Various bug fixes in game files
+- Implementation of account activation
+- Changes to PVP mechanics
+- Modifications to items
+- Adjustments to locations
+- Removal of unused code
+- Core game updated to version 14.0.36 in the database
+- Available official game data was re-scraped and added to the database.
+- Game Version 9.8.0 was restored.
+- test14_0_36.swf renamed to game14_0_36.swf.
+- An updated game Version 15.8.05 was added. (Source unknown, v14.0.36 remains the default).
+- Removal of some original game files.
+
+**Some code has been lost, including:**
+- Account Management.
+- CMS system and general website UI etc.
+- Character Page updates etc.
+- Various configuration changes.
+- Some modified game files.
+(These items may exist still in some form in a backup, please create a pull request if you believe you have missing code).
 
 </details>

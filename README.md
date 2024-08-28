@@ -58,7 +58,9 @@ Flash-based browser games, including AlphaFable, are still playable in 2024 afte
 <summary>Links to forked & related projects.</summary>
 
 There are various forks of or new developments created as a result of this project, some of which may not include the latest code or might contain code that is no longer available even to the original developers.
+
 [Draconiandeveloper's AlphaFable Repo](https://github.com/draconiandeveloper/AlphaFable).
+
 [Hiperesp's DragonFable Private Server Repo](https://github.com/hiperesp/DragonFable-Private-Server).
 
 </details>

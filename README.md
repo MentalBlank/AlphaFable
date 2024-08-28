@@ -5,7 +5,7 @@
 
 ## Overview
 
-Welcome to the AlphaFable repository, Originally EternalFable, a preservation project dedicated to archiving and maintaining a private server for a classic Flash-based browser MMORPG. Our goal was to preserve the spirit of the original game and ensure it remains accessible to players and enthusiasts, even after official support has ended offering a platform for enthusiasts to explore and enjoy the game while honoring its significance. Please note: Most if not all files are significantly outdated (over 13 years old as of the upload date) and may require substantial modifications or unavailable game files to function correctly.
+Welcome to the AlphaFable repository, Originally EternalFable, a preservation project dedicated to archiving and maintaining a private server for a classic Flash-based browser MMORPG. Our goal was to preserve the spirit of the original game and ensure it remains accessible to players and enthusiasts, even after official support has ended offering a platform for enthusiasts to explore and enjoy the game while honoring its significance. Please note: Most if not all files are significantly outdated (at least 13+ years old as of the upload date) and may require substantial modifications or unavailable game files to function correctly.
 
 ### Why Preservation Matters and Why This Project Exists
 
@@ -39,7 +39,7 @@ This project would not have been possible without the invaluable support of the 
 
 ### Notes
 
-**These files are severely outdated (over 13 years old as of upload) and may require significant modifications to function correctly.**
+**These files are severely outdated (at least 13+ years old as of the upload date) and may require significant modifications to function correctly.**
 
 Flash-based browser games, including AlphaFable, are still playable in 2024 after installing the Ruffle Flash-Emulator plugin for your browser.
 
